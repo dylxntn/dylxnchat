@@ -1,2 +1,1 @@
-web: npm start
-worker: npm run watch
+web: npm start run watch
